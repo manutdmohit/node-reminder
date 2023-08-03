@@ -3,7 +3,7 @@ const notifier = require('node-notifier');
 const { exec } = require('child_process');
 
 // Set your preferred learning time (24-hour format)
-const reminderTime = '12:15';
+const reminderTime = '12:45';
 
 // Audio file path for the notification sound
 const audioFile = 'srivalli.mp3'; // Replace with the actual path

@@ -1,5 +1,3 @@
-Sure! Below is a Markdown-based documentation for the TypeScript learning reminder code:
-
 # TypeScript Learning Reminder
 
 This project provides a simple Node.js script to schedule daily reminders for learning TypeScript. It uses the `node-schedule` module to schedule the reminder and the `node-notifier` module to display visual notifications. Additionally, the script uses the `child_process` module to play a sound notification at the scheduled time.
@@ -58,8 +56,7 @@ This project was inspired by the need for daily reminders to learn TypeScript an
 
 ## Author
 
-This project was created by [Your Name].
+This project was created by [Mohit Saud].
 
 ---
 
-That's the basic Markdown-based documentation for the TypeScript learning reminder code. You can further expand on the documentation by adding sections such as "Dependencies," "Known Issues," "Contributing Guidelines," "Changelog," etc., depending on the complexity and requirements of your project.

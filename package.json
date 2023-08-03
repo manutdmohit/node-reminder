@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,8 @@
     "node-notifier": "^10.0.1",
     "node-schedule": "^2.1.1",
     "play-sound": "^1.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }

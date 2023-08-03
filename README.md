@@ -56,7 +56,7 @@ This project was inspired by the need for daily reminders to learn TypeScript an
 
 ## Author
 
-This project was created by [Mohit Saud].
+This project was created by Mohit Saud.
 
 ---
 
